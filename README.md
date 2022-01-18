@@ -1,2 +1,2 @@
-# LotsMoreFood-Datapack
-Ever thought that Minecraft needed more food? Then this is your pack! This pack adds more than 50+ Foods. Use to replenish those health and hunger points. Make sure to download the resource pack too.
+Z# Lot's More Food Datapack
+This repo has been moved to a combined repo: https://github.com/legopitstop/Lots-More-Food-Mods
